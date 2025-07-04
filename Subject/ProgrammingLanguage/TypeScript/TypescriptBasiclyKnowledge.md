@@ -1,6 +1,9 @@
 --- 
 	tags: [TypeScript, Typescript basic, basic] 
 	aliases: [TSbegin, TypeScript basic] 
+	created: 2025-06-27
+	updated:
+	source:	
 ---
 # Introduce
 
