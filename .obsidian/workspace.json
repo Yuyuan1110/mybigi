@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "46749cab8b0df9f5",
+        "id": "3de6ba8f9fc8dbe0",
         "type": "tabs",
         "children": [
           {
-            "id": "d2f3317d2deac910",
+            "id": "5dd8a62565d0e0f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2025-07-04.md",
+                "file": "DailyNotes/2025-07-09.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-04"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6a7bbaa7e92b5dc7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b65c2b95cbbd739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2025-07-03.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-03"
+              "title": "2025-07-09"
             }
           }
         ]
@@ -199,23 +179,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2f3317d2deac910",
+  "active": "5dd8a62565d0e0f6",
   "lastOpenFiles": [
-    "Subject/ProgrammingLanguage/C/C_allocate_mem.md",
+    "Subject/ProgrammingLanguage/Golang.md",
+    "DailyNotes/2025-07-09.md",
+    "Templates/DailyNoteTemp.md",
+    "DailyNotes/2025-07-08.md",
+    "DailyNotes/2025-07-07.md",
     "DailyNotes/2025-07-04.md",
+    "DailyNotes/2025-07-03.md",
+    "DailyNotes/2025-07-02.md",
+    "Technical/LinuxUtils/nc.md",
+    "Technical/LinuxUtils/awk.md",
+    "Templates/programmingLanguageFeatureTemplate.md",
+    "Templates/UtilsTemp.md",
+    "Subject/ProgrammingLanguage/C/C_allocate_mem.md",
     "Subject/ProgrammingLanguage/C/C_inline.md",
     "Subject/ProgrammingLanguage/C/C_preprocessor.md",
     "Subject/ProgrammingLanguage/C/C_macro.md",
-    "DailyNotes/2025-07-03.md",
-    "Templates/programmingLanguageFeatureTemplate.md",
-    "Templates/DailyNoteTemp.md",
-    "Templates/UtilsTemp.md",
     "Subject/ProgrammingLanguage/TypeScript/TypescriptBasiclyKnowledge.md",
     "Subject/ProgrammingLanguage/C",
-    "Subject/ProgrammingLanguage/Golang.md",
-    "DailyNotes/2025-07-02.md",
     "Technical/LinuxUtils/tmux.md",
-    "Technical/LinuxUtils/awk.md",
     "DailyNotes/2025-06-27.md",
     "Technical/LinuxUtils/tee.md",
     "Subject/ProgrammingLanguage/TypeScript",
@@ -235,7 +219,6 @@
     "Test/Acom/CHT-EAPSIM_20250610_AAA_auth_fail_test.md~",
     "create a link.md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }

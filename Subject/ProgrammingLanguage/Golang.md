@@ -5,3 +5,4 @@
 	- `go mod init yuyuan1110.github.com/ginFizz` // Create ginFizz module
 
 ## Gin Framework
+# ***I don't reallly like this language, it not match my coding habit, so this page will not maintain any more.***

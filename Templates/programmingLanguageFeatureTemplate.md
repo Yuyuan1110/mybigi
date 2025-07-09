@@ -1,7 +1,7 @@
 ---
 tags: programming, feature
 alias: []
-created: 2025-07-04
+created: {{date}}
 updated:
 source:
 ---
