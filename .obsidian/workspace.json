@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2025-07-09.md",
+                "file": "Templates/DailyNoteTemp.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-09"
+              "title": "DailyNoteTemp"
             }
           }
         ]
@@ -181,14 +181,16 @@
   },
   "active": "5dd8a62565d0e0f6",
   "lastOpenFiles": [
-    "Subject/ProgrammingLanguage/Golang.md",
+    "DailyNotes/2025-07-10.md",
     "DailyNotes/2025-07-09.md",
-    "Templates/DailyNoteTemp.md",
-    "DailyNotes/2025-07-08.md",
-    "DailyNotes/2025-07-07.md",
-    "DailyNotes/2025-07-04.md",
-    "DailyNotes/2025-07-03.md",
+    "DailyNotes/2025-06-27.md",
     "DailyNotes/2025-07-02.md",
+    "DailyNotes/2025-07-03.md",
+    "DailyNotes/2025-07-04.md",
+    "DailyNotes/2025-07-07.md",
+    "DailyNotes/2025-07-08.md",
+    "Templates/DailyNoteTemp.md",
+    "Subject/ProgrammingLanguage/Golang.md",
     "Technical/LinuxUtils/nc.md",
     "Technical/LinuxUtils/awk.md",
     "Templates/programmingLanguageFeatureTemplate.md",
@@ -200,7 +202,6 @@
     "Subject/ProgrammingLanguage/TypeScript/TypescriptBasiclyKnowledge.md",
     "Subject/ProgrammingLanguage/C",
     "Technical/LinuxUtils/tmux.md",
-    "DailyNotes/2025-06-27.md",
     "Technical/LinuxUtils/tee.md",
     "Subject/ProgrammingLanguage/TypeScript",
     "Technical/CommonUtils/git/Git_Commit_Message_convention.md",
@@ -217,7 +218,6 @@
     "Technical/CommonUtils/Radiator",
     "TODO list.md",
     "Test/Acom/CHT-EAPSIM_20250610_AAA_auth_fail_test.md~",
-    "create a link.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
