@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/DailyNoteTemp.md",
+                "file": "Technical/LinuxUtils/tee.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DailyNoteTemp"
+              "title": "tee"
             }
           }
         ]
@@ -181,6 +181,18 @@
   },
   "active": "5dd8a62565d0e0f6",
   "lastOpenFiles": [
+    "DailyNotes/2025-07-17.md",
+    "DailyNotes/2025-07-16.md",
+    "Technical/LinuxUtils/awk.md",
+    "Technical/LinuxUtils/nc.md",
+    "Technical/LinuxUtils/tee.md",
+    "Technical/LinuxUtils/tmux.md",
+    "DailyNotes/2025-07-15.md",
+    "DailyNotes/2025-07-14.md",
+    "Subject/ProgrammingLanguage/C/C_allocate_mem.md",
+    "Templates/DailyNoteTemp.md",
+    "DailyNotes/2025-07-11.md",
+    "Technical/CommonUtils/Radiator/Radiator_config.md",
     "DailyNotes/2025-07-10.md",
     "DailyNotes/2025-07-09.md",
     "DailyNotes/2025-06-27.md",
@@ -189,34 +201,22 @@
     "DailyNotes/2025-07-04.md",
     "DailyNotes/2025-07-07.md",
     "DailyNotes/2025-07-08.md",
-    "Templates/DailyNoteTemp.md",
     "Subject/ProgrammingLanguage/Golang.md",
-    "Technical/LinuxUtils/nc.md",
-    "Technical/LinuxUtils/awk.md",
     "Templates/programmingLanguageFeatureTemplate.md",
     "Templates/UtilsTemp.md",
-    "Subject/ProgrammingLanguage/C/C_allocate_mem.md",
     "Subject/ProgrammingLanguage/C/C_inline.md",
     "Subject/ProgrammingLanguage/C/C_preprocessor.md",
     "Subject/ProgrammingLanguage/C/C_macro.md",
-    "Subject/ProgrammingLanguage/TypeScript/TypescriptBasiclyKnowledge.md",
     "Subject/ProgrammingLanguage/C",
-    "Technical/LinuxUtils/tmux.md",
-    "Technical/LinuxUtils/tee.md",
     "Subject/ProgrammingLanguage/TypeScript",
-    "Technical/CommonUtils/git/Git_Commit_Message_convention.md",
-    "Technical/CommonUtils/Radiator/Radiator_config.md",
     "Untitled.canvas",
     "Templates",
-    "DailyNotes/Untitled.md",
     "DailyNotes",
     "Subject/ProgrammingLanguage",
     "Subject",
     "Technical/ProgrammingLanguage",
     "_Attachments/Technical",
-    "QA/Acom/CHT-EAPSIM_20250610_AAA_auth_fail_test.md",
     "Technical/CommonUtils/Radiator",
-    "TODO list.md",
     "Test/Acom/CHT-EAPSIM_20250610_AAA_auth_fail_test.md~",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
