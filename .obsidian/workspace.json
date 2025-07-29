@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2025-07-25.md",
+                "file": "DailyNotes/2025-07-28.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-25"
+              "title": "2025-07-28"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "5dd8a62565d0e0f6",
   "lastOpenFiles": [
-    "DailyNotes/2025-07-24.md",
     "DailyNotes/2025-07-25.md",
+    "DailyNotes/2025-07-28.md",
+    "DailyNotes/2025-07-24.md",
     "DailyNotes/2025-07-23.md",
     "DailyNotes/2025-07-22.md",
     "Technical/LinuxUtils/tmux.md",
@@ -206,7 +207,6 @@
     "DailyNotes/2025-07-14.md",
     "Subject/ProgrammingLanguage/C/C_allocate_mem.md",
     "DailyNotes/2025-07-11.md",
-    "Technical/CommonUtils/Radiator/Radiator_config.md",
     "Subject/ProgrammingLanguage/C",
     "Subject/ProgrammingLanguage/TypeScript",
     "Untitled.canvas",
