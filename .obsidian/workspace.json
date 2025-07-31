@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2025-07-28.md",
+                "file": "DailyNotes/2025-07-31.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-28"
+              "title": "2025-07-31"
             }
           }
         ]
@@ -181,14 +181,22 @@
   },
   "active": "5dd8a62565d0e0f6",
   "lastOpenFiles": [
-    "DailyNotes/2025-07-25.md",
+    "Technical/LinuxUtils/awk.md",
+    "Technical/LinuxUtils/nc.md",
+    "Technical/CommonUtils/Radiator/Radiator_config.md",
+    "Technical/CommonUtils/git/Git_Commit_Message_convention.md",
+    "Subject/ProgrammingLanguage/C/C_allocate_mem.md",
+    "Subject/ProgrammingLanguage/C/C_inline.md",
+    "Subject/ProgrammingLanguage/C/C_macro.md",
+    "Subject/ProgrammingLanguage/C/C_preprocessor.md",
+    "DailyNotes/2025-07-31.md",
+    "DailyNotes/2025-07-30.md",
     "DailyNotes/2025-07-28.md",
+    "DailyNotes/2025-07-25.md",
     "DailyNotes/2025-07-24.md",
     "DailyNotes/2025-07-23.md",
     "DailyNotes/2025-07-22.md",
     "Technical/LinuxUtils/tmux.md",
-    "Technical/LinuxUtils/awk.md",
-    "Technical/LinuxUtils/nc.md",
     "Templates/DailyNoteTemp.md",
     "Templates/UtilsTemp.md",
     "DailyNotes/2025-07-21.md",
@@ -199,14 +207,6 @@
     "DailyNotes/2025-07-04.md",
     "DailyNotes/2025-07-03.md",
     "DailyNotes/2025-07-02.md",
-    "DailyNotes/2025-06-27.md",
-    "Technical/LinuxUtils/tee.md",
-    "DailyNotes/2025-07-17.md",
-    "DailyNotes/2025-07-16.md",
-    "DailyNotes/2025-07-15.md",
-    "DailyNotes/2025-07-14.md",
-    "Subject/ProgrammingLanguage/C/C_allocate_mem.md",
-    "DailyNotes/2025-07-11.md",
     "Subject/ProgrammingLanguage/C",
     "Subject/ProgrammingLanguage/TypeScript",
     "Untitled.canvas",
