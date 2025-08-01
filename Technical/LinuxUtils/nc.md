@@ -2,48 +2,54 @@
 tags: Linux, Utils, nc, network, diag, diagnostic, diagnostics, diagnosis
 alias: []
 created: 2025-07-08
-updated:
+updated: 2025-08-01
 source:
 ---
 
 # `nc` Command Note
-`nc` is a network read/write of netowrk connections tool, it can play two main roles:
-- **In client end**: Connected to a port of ther remote server, and it can send some packet to the server, or just listen the port.
-- **In server end**: Listen a port, and waiting for client to connect, then it can interactive with client.
+`nc` (netcat) is a versatile networking utility for reading from and writing to network connections using TCP or UDP.
+
+For more advanced usage, see [[nc_advanced]].
 
 ## Command Basic Usage
-`nc [-option] [host-ip] [port]`
+
+### Client Mode: Connecting to a Server
+
 Command format:
 ```bash
-nc -vz 192.168.1.168 8080
-# It may output 'Connection to 192.168.1.135 8022 port [tcp/*] succeeded!'
-# or refuse: "nc: connect to 192.168.1.135 port 8022 (tcp) failed: Connection refused"
+nc [options] [hostname] [port]
 ```
 
-Option:
-`-v`: Show detail of connection info and progress, It huge help to diagnose the problem of connection.
-`-z`: zero-I/O, it mean `nc` will not sned or recive any packet when connected, it ject try to connect and discommect immidiatly.
-`-l`: Listen, `nc` will listen the port which specified, and wait for connection. 
+**Options:**
+- **`-v`**: Verbose output, showing connection progress.
+- **`-z`**: Zero-I/O mode. Scans for listening daemons without sending any data.
 
-Example:
-- In client end: 
-	```bash
-	nc example.com 80
-	# It will entry connection mode, now can send the HTTP request.
-	GET / HTTP/1.1
-	Host: exmple.com
-	
-	# type Enter two time.
-	# and you can see the response head information.
-	```
-- In server mode:
-	```bash
-	nc -l 8888
-	# listening port 8888.	
-	```
-	and now you can try to connected to server on client end.
-	```bash
-	nc [server_ip] 8888
-	# now can interactive with server
-	# like chat with server
-	```
+**Example: Checking a Port**
+```bash
+# Check if a web server is listening on port 80
+nc -vz example.com 80
+# Expected output on success: Connection to example.com 80 port [tcp/*] succeeded!
+```
+
+**Example: Sending Data**
+```bash
+# Connect to a server and send a simple message
+echo "Hello Server" | nc localhost 8888
+```
+
+### Server Mode: Listening for Connections
+
+Command format:
+```bash
+nc -l [port]
+```
+
+**Options:**
+- **`-l`**: Listen mode, waits for incoming connections.
+
+**Example: Creating a Simple Server**
+```bash
+# Listen on port 8888 for an incoming connection
+nc -l 8888
+# Any data sent from a client will be printed to standard output.
+```

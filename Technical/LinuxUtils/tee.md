@@ -1,33 +1,43 @@
 ---
-tags: Linux, Utils, tee, grep
+tags: Linux, Utils, tee
 alias: []
 created: 2025-07-02
-updated:
+updated: 2025-08-01
 source:
 ---
-# `tee` command note
-`tee` command can output message to std output and write it to file at the same time.
 
-## `tee` command basic usage
+# `tee` Command Note
+
+The `tee` command reads from standard input and writes to both standard output and one or more files, effectively splitting the output.
+
+For more advanced usage, see [[tee_advanced]].
+
+## Command Basic Usage
 
 Command format:
 ```bash
-command |tee [option] file...
+command | tee [OPTION] [FILE]...
 ```
 
-Common Option:
-`-a`, `--append`: Writing output message to tail of the file, instead overwrite.
-`-i`, `--ignore-interrupts`: If use this option, command will not be interrupted, even use `ctrl-c`, `tee` will continue to the end of process.
-`--help`: Some help information.
-`--version`: Version information.
+**Options:**
+- **`-a`**: Append to the given files, do not overwrite.
 
-Example:
+### Basic Examples:
+
+**1. Save and View Command Output**
 ```bash
-ls -l |tee file.txt # it will show ls info at std and write it to file.txt, like '>', it file.txt is exist, it will be overwrite.
+# List files, view the output, and save it to a file named 'listing.txt'
+ls -l | tee listing.txt
+```
 
-dmesg |tee -a file1.txt # show dmesg at the std output and write it to file1.txt, like '>>', if file is exist, it will append at the tail, if not, it will created.
+**2. Append Output to a Log File**
+```bash
+# Run a script and append its output to a log file, while still seeing it on screen
+./my_script.sh | tee -a script.log
+```
 
-cat /var/log/message.log |tee file1.txt file2.txt file3.txt # it can write to mutiple file.
-
-cat /etc/sysctl.conf |sudo tee /some/where/need/root/permission/to/write # where different between '>' and tee is tee can get root perssion by sudo.
+**3. Write to Multiple Files**
+```bash
+# Send the output of 'dmesg' to two separate files
+dmesg | tee dmesg.log dmesg_backup.log
 ```
