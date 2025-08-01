@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/LinuxUtils/tmux_advanced.md",
-                "mode": "source",
-                "source": false
+                "file": "Technical/CommonUtils/git/Modern_Git_Workflow.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "tmux_advanced"
+              "title": "Modern_Git_Workflow"
             }
           }
         ],
@@ -194,34 +194,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7960c6981262b00d",
+  "active": "26e6d49902358e20",
   "lastOpenFiles": [
-    "Technical/LinuxUtils/ss.md",
+    "Technical/LinuxUtils/graphviz.md",
+    "Technical/CommonUtils/git/Modern_Git_Workflow.md",
+    "Technical/CommonUtils/git",
+    "Technical/LinuxUtils/nc.md",
     "Technical/LinuxUtils/graphviz_advanced.md",
     "Technical/LinuxUtils/gnuplot_advanced.md",
-    "Technical/LinuxUtils/gnuplot.md",
-    "Technical/LinuxUtils/dd_advanced.md",
-    "Technical/LinuxUtils/dd.md",
-    "Technical/LinuxUtils/awk_advanced.md",
-    "Technical/LinuxUtils/awk.md",
-    "DailyNotes/2025-06-27.md",
-    "Technical/LinuxUtils/graphviz.md",
-    "Technical/LinuxUtils/perf.md",
-    "Technical/LinuxUtils/sed_advanced.md",
-    "Technical/LinuxUtils/tee.md",
-    "Technical/CommonUtils/LaTeX.md",
-    "Technical/CommonUtils/LaTeX_advanced.md",
-    "Technical/LinuxUtils/perf_advanced.md",
+    "Technical/CommonUtils/Regular_Expressions.md",
+    "Technical/CommonUtils/Radiator_config.md",
+    "Subject/ProgrammingLanguage/TypeScript/TypescriptBasiclyKnowledge.md",
+    "Subject/ProgrammingLanguage/Golang.md",
     "Technical/LinuxUtils/tmux_advanced.md",
     "Technical/LinuxUtils/tmux.md",
-    "Technical/LinuxUtils/tee_advanced.md",
+    "Technical/CommonUtils/LaTeX.md",
+    "DailyNotes/2025-08-01.md",
+    "Subject/ProgrammingLanguage/C/make.md",
+    "Subject/ProgrammingLanguage/C/gdb_advanced.md",
+    "Subject/ProgrammingLanguage/C/gdb.md",
+    "Subject/ProgrammingLanguage/C/gcc_advanced.md",
+    "Subject/ProgrammingLanguage/C/gcc.md",
+    "Technical/LinuxUtils/perf.md",
+    "Technical/CommonUtils/LaTeX_advanced.md",
     "Technical/LinuxUtils/tcpdump_advanced.md",
     "Technical/LinuxUtils/tcpdump.md",
     "Technical/LinuxUtils/ss_advanced.md",
+    "Technical/LinuxUtils/ss.md",
     "Technical/LinuxUtils/sed.md",
-    "Technical/LinuxUtils/nc_advanced.md",
-    "Technical/LinuxUtils/nc.md",
-    "Technical/CommonUtils/Git_Commit_Message_convention.md",
+    "Templates/DailyNoteTemp.md",
     "Technical/CommonUtils/Typesetting",
     "Technical/Performance",
     "Technical/Graphing",
@@ -232,7 +233,6 @@
     "DailyNotes",
     "Subject/ProgrammingLanguage",
     "Subject",
-    "Technical/ProgrammingLanguage",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
