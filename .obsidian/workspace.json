@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/CommonUtils/git/Modern_Git_Workflow.md",
-                "mode": "preview",
+                "file": "DailyNotes/2025-09-04.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Modern_Git_Workflow"
+              "title": "2025-09-04"
             }
           }
         ],
@@ -172,8 +172,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -194,10 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26e6d49902358e20",
+  "active": "7960c6981262b00d",
   "lastOpenFiles": [
-    "Technical/LinuxUtils/graphviz.md",
+    "DailyNotes/2025-09-03.md",
+    "DailyNotes/2025-09-04.md",
+    "Templates/DailyNoteTemp.md",
+    "DailyNotes/2025-08-01.md",
+    "DailyNotes/2025-07-15.md",
     "Technical/CommonUtils/git/Modern_Git_Workflow.md",
+    "Technical/LinuxUtils/graphviz.md",
     "Technical/CommonUtils/git",
     "Technical/LinuxUtils/nc.md",
     "Technical/LinuxUtils/graphviz_advanced.md",
@@ -209,7 +215,6 @@
     "Technical/LinuxUtils/tmux_advanced.md",
     "Technical/LinuxUtils/tmux.md",
     "Technical/CommonUtils/LaTeX.md",
-    "DailyNotes/2025-08-01.md",
     "Subject/ProgrammingLanguage/C/make.md",
     "Subject/ProgrammingLanguage/C/gdb_advanced.md",
     "Subject/ProgrammingLanguage/C/gdb.md",
@@ -219,10 +224,6 @@
     "Technical/CommonUtils/LaTeX_advanced.md",
     "Technical/LinuxUtils/tcpdump_advanced.md",
     "Technical/LinuxUtils/tcpdump.md",
-    "Technical/LinuxUtils/ss_advanced.md",
-    "Technical/LinuxUtils/ss.md",
-    "Technical/LinuxUtils/sed.md",
-    "Templates/DailyNoteTemp.md",
     "Technical/CommonUtils/Typesetting",
     "Technical/Performance",
     "Technical/Graphing",
