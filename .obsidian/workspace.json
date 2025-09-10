@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/CommonUtils/Boshiamy install on ubuntu.md",
+                "file": "Technical/CommonUtils/neovim.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Boshiamy install on ubuntu"
+              "title": "neovim"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "7960c6981262b00d",
   "lastOpenFiles": [
-    "Technical/LinuxUtils/awk_advanced.md",
     "Technical/CommonUtils/Boshiamy install on ubuntu.md",
+    "Technical/CommonUtils/neovim.md",
+    "Technical/LinuxUtils/awk_advanced.md",
     "DailyNotes/2025-09-04.md",
     "DailyNotes/2025-09-03.md",
     "Templates/DailyNoteTemp.md",
@@ -223,7 +224,6 @@
     "Subject/ProgrammingLanguage/C/gcc_advanced.md",
     "Subject/ProgrammingLanguage/C/gcc.md",
     "Technical/LinuxUtils/perf.md",
-    "Technical/CommonUtils/LaTeX_advanced.md",
     "Technical/CommonUtils/Typesetting",
     "Technical/Performance",
     "Technical/Graphing",
