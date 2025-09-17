@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/CommonUtils/neovim.md",
-                "mode": "source",
+                "file": "Technical/LinuxUtils/tmux_advanced.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "neovim"
+              "title": "tmux_advanced"
             }
           }
         ],
@@ -197,8 +197,19 @@
   },
   "active": "7960c6981262b00d",
   "lastOpenFiles": [
-    "Technical/CommonUtils/Boshiamy install on ubuntu.md",
+    "Technical/LinuxUtils/tmux.md",
+    "Technical/LinuxUtils/nc_advanced.md",
+    "Technical/LinuxUtils/nc.md",
+    "Technical/LinuxUtils/ss_advanced.md",
+    "Technical/LinuxUtils/ss.md",
+    "Technical/LinuxUtils/tee.md",
+    "Technical/LinuxUtils/dd_advanced.md",
+    "Subject/ProgrammingLanguage/Golang.md",
+    "Technical/LinuxUtils/perf.md",
+    "Inventec",
+    "Technical/LinuxUtils/tmux_advanced.md",
     "Technical/CommonUtils/neovim.md",
+    "Technical/CommonUtils/Boshiamy install on ubuntu.md",
     "Technical/LinuxUtils/awk_advanced.md",
     "DailyNotes/2025-09-04.md",
     "DailyNotes/2025-09-03.md",
@@ -208,22 +219,12 @@
     "Technical/CommonUtils/git/Modern_Git_Workflow.md",
     "Technical/LinuxUtils/graphviz.md",
     "Technical/CommonUtils/git",
-    "Technical/LinuxUtils/nc.md",
     "Technical/LinuxUtils/graphviz_advanced.md",
     "Technical/LinuxUtils/gnuplot_advanced.md",
     "Technical/CommonUtils/Regular_Expressions.md",
     "Technical/CommonUtils/Radiator_config.md",
     "Subject/ProgrammingLanguage/TypeScript/TypescriptBasiclyKnowledge.md",
-    "Subject/ProgrammingLanguage/Golang.md",
-    "Technical/LinuxUtils/tmux_advanced.md",
-    "Technical/LinuxUtils/tmux.md",
     "Technical/CommonUtils/LaTeX.md",
-    "Subject/ProgrammingLanguage/C/make.md",
-    "Subject/ProgrammingLanguage/C/gdb_advanced.md",
-    "Subject/ProgrammingLanguage/C/gdb.md",
-    "Subject/ProgrammingLanguage/C/gcc_advanced.md",
-    "Subject/ProgrammingLanguage/C/gcc.md",
-    "Technical/LinuxUtils/perf.md",
     "Technical/CommonUtils/Typesetting",
     "Technical/Performance",
     "Technical/Graphing",
@@ -233,7 +234,6 @@
     "Templates",
     "DailyNotes",
     "Subject/ProgrammingLanguage",
-    "Subject",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]

@@ -14,4 +14,8 @@ source: neovim.io
 	- `nvm install node`, node mean latest version.
 4. Visit [nerdfonts websit](https://www.nerdfonts.com/) and download any fonts look lovely.
 	- Recommand use MONO type fonts.
-	- 
+	- insatll nerd font.
+5. Setup terminal fonts.
+	- open `preference`, setup `Unname` or add profiles.
+	- checked  "Custom font" and select to which font install before.
+6. open nvim in terminal.
