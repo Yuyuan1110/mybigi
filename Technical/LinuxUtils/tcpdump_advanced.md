@@ -1,5 +1,10 @@
 ---
-tags: Linux, Utils, tcpdump, network, sniffing
+tags: 
+  - Linux
+  - Utils
+  - tcpdump
+  - network
+  - sniffing
 alias: []
 created: 2025-08-01
 updated: 2025-08-01

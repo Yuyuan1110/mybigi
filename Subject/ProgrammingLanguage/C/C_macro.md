@@ -1,5 +1,8 @@
 ---
-tags: programming, macro, C
+tags: 
+  - programming
+  - macro
+  - C
 alias: []
 created: 2025-07-04
 updated:

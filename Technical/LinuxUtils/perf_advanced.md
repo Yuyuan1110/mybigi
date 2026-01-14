@@ -1,5 +1,10 @@
 ---
-tags: Linux, Utils, perf, performance, profiling
+tags: 
+  - inux
+  - Utils
+  - perf
+  - performance
+  - profiling
 alias: []
 created: 2025-08-01
 updated: 2025-08-01

@@ -1,5 +1,9 @@
 ---
-tags: Linux, Utils,boshiamy, input
+tags: 
+  - Linux
+  - Utils
+  - boshiamy
+  - input
 alias: []
 created: 2025-09-09
 updated: 2025-00-09

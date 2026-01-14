@@ -1,5 +1,11 @@
 ---
-tags: Utils, Regex, TextProcessing, Regular, RE
+tags: 
+  - Utils
+  - Regex
+  - TextProcessing
+  - Regular
+  - RE
+  - Common
 alias: [regex, RE]
 created: 2025-08-01
 updated:

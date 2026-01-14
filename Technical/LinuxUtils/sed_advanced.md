@@ -1,5 +1,9 @@
 ---
-tags: Linux, Utils, sed, text
+tags: 
+  - Linux
+  - Utils
+  - sed
+  - text
 alias: []
 created: 2025-08-01
 updated: 2025-08-01

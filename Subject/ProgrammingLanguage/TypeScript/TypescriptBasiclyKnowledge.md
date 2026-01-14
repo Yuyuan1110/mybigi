@@ -1,10 +1,16 @@
---- 
-	tags: [TypeScript, Typescript basic, basic] 
-	aliases: [TSbegin, TypeScript basic] 
-	created: 2025-06-27
-	updated:
-	source:	
 ---
+tags: 
+  - TypeScript
+  - Typescript_basic
+  - basic 
+aliases: 
+  - TSbegin
+  - TypeScript_basic 
+created: 2025-06-27
+updated:
+source:	
+---
+
 # Introduce
 
 Typescipt is the superset of javascript, which is  mean all the javascript is valid typescript, or you can say that all javascript can run in typescript, actually, when typescript executed, it will be transpile to javascript before execution.

@@ -1,5 +1,8 @@
 ---
-tags: Linux, Utils, nvim
+tags: 
+  - Linux
+  - Utils
+  - nvim
 alias: []
 created: 2025-09-09
 updated: 2025-09-09

@@ -1,5 +1,10 @@
 ---
-tags: Linux, Utils, dd, disk, imaging
+tags:
+  - Linux
+  - Utils
+  - dd
+  - disk
+  - imaging
 alias: []
 created: 2025-08-01
 updated: 2025-08-01

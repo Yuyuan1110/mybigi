@@ -1,5 +1,7 @@
 ---
-tags: Linux, Utils
+tags: 
+  - Linux
+  - Utils
 alias: []
 created: {{date}}
 updated:

@@ -1,5 +1,8 @@
 ---
-tags: programming, preprocessor, C
+tags: 
+  - programming
+  - preprocessor
+  - C
 alias: []
 created: 2025-07-04
 updated:

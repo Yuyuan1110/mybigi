@@ -1,8 +1,12 @@
 ---
-tags: Daily, Essay, todo, list
+tags: 
+  - Daily
+  - Aside
+  - todo
+  - list
 created: {{date}}
 ---
-## Daily Essay
+## Daily Aside
 
 ## Today Progress
 

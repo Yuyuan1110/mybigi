@@ -1,5 +1,9 @@
 ---
-tags: Linux, Utils, tmux, screen
+tags: 
+  - Linux
+  - Utils
+  - tmux
+  - screen
 alias: []
 created: 2025-07-02
 updated: 2025-08-01

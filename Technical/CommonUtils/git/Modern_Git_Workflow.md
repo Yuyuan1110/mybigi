@@ -1,7 +1,10 @@
 ---
-tags: git, workflow, best-practices
+tags: 
+  - git
+  - workflow
+  - best-practices
 alias: [Modern Git]
-created: {{date}}
+created: 2025-04-05
 updated:
 source:
 ---

@@ -1,5 +1,8 @@
 ---
-tags: programming, C, inline 
+tags: 
+  - programming
+  - C
+  - inline 
 alias: []
 created: 2025-07-04
 updated:

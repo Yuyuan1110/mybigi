@@ -1,8 +1,12 @@
 ---
-tags: Utils, LaTeX, typesetting, document
+tags: 
+  - Utils
+  - LaTeX
+  - typesetting
+  - document
 alias: []
 created: 2025-08-01
-updated: 2025-08-01
+updated: 2025-09-25
 source:
 ---
 

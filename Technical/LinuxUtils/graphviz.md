@@ -1,5 +1,10 @@
 ---
-tags: Linux, Utils, graphviz, graphing, visualization
+tags: 
+  - Linux
+  - Utils
+  - graphviz
+  - graphing
+  - visualization
 alias: []
 created: 2025-08-01
 updated: 2025-08-01

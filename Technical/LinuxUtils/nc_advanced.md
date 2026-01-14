@@ -1,5 +1,9 @@
 ---
-tags: Linux, Utils, nc, network
+tags: 
+  - Linux
+  - Utils
+  - nc
+  - network
 alias: []
 created: 2025-08-01
 updated: 2025-08-01

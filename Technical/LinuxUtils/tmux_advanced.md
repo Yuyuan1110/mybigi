@@ -1,5 +1,8 @@
 ---
-tags: Linux, Utils, tmux
+tags: 
+  - Linux
+  - Utils
+  - tmux
 alias: []
 created: 2025-08-01
 updated: 2025-08-01

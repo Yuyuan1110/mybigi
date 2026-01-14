@@ -1,5 +1,13 @@
 ---
-tags: Linux, Utils, nc, network, diag, diagnostic, diagnostics, diagnosis
+tags: 
+  - Linux
+  - Utils
+  - nc
+  - network
+  - diag
+  - diagnostic
+  - diagnostics
+  - diagnosis
 alias: []
 created: 2025-07-08
 updated: 2025-08-01

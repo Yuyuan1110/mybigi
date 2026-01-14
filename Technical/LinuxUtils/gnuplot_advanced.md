@@ -1,5 +1,10 @@
 ---
-tags: Linux, Utils, gnuplot, graphing, plotting
+tags: 
+  - Linux
+  - Utils
+  - gnuplot
+  - graphing
+  - plotting
 alias: []
 created: 2025-08-01
 updated:

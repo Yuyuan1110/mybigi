@@ -1,5 +1,11 @@
 ---
-tags: programming, allocate, malloc, calloc, realloc, alloc
+tags: 
+  - programming
+  - allocate
+  - malloc
+  - calloc
+  - realloc
+  - alloc
 alias: []
 created: 2025-07-04
 updated:

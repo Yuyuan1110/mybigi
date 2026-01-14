@@ -1,5 +1,10 @@
 ---
-tags: Linux, Utils, ss, network, netstat
+tags: 
+  - Linux
+  - Utils
+  - ss
+  - network
+  - netstat
 alias: []
 created: 2025-08-01
 updated: 2025-08-01
