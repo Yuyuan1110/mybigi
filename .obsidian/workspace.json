@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/LinuxUtils/kvm.md",
+                "file": "Inventec/Chromebook/Various_version_info.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "kvm"
+              "title": "Various_version_info"
+            }
+          },
+          {
+            "id": "8e2e9be41ff376a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/CommonUtils/Windows_OOBE_bypass.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Windows_OOBE_bypass"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b843a4e366204749",
+  "active": "8e2e9be41ff376a5",
   "lastOpenFiles": [
-    "Technical/LinuxUtils/kvm_advanced.md",
+    "Inventec/Chromebook/Disabled_File_system_Verification.md",
+    "Technical/CommonUtils/Windows_OOBE_bypass.md",
+    "Inventec/Chromebook/Factory_toolkit.md",
+    "Inventec/Chromebook/Setup_GBB.md",
+    "Inventec/Chromebook/powerwash.md",
     "Technical/LinuxUtils/kvm.md",
+    "Technical/LinuxUtils/kvm_advanced.md",
     "Technical/LinuxUtils/cmake_advanced.md",
     "Technical/LinuxUtils/qemu_advanced.md",
     "Technical/LinuxUtils/qemu.md",
@@ -203,11 +223,6 @@
     "Technical/LinuxUtils/tmux_advanced.md",
     "Technical/CommonUtils/git/Modern_Git_Workflow.md",
     "Technical/CommonUtils/neovim.md",
-    "Inventec/Chromebook/Google progress.md",
-    "Technical/LinuxUtils/tcpdump.md",
-    "DailyNotes/2025-12-31.md",
-    "Inventec/Chromebook/Keyboard_layout.md",
-    "Technical/CommonUtils/LaTeX.md",
     "Untitled.base",
     "Inventec/Chromebook/Generate_logs.md~",
     "Pasted image 20250923164949.png",
