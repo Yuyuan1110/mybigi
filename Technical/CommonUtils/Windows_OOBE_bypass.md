@@ -9,6 +9,7 @@ created: 2026-01-28
 updated:
 source:
   - https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26200-5516-dev-channel/
+  - https://ivonblog.com/posts/microsoft-activation-scripts/
 ---
 
 ## Windows OOBE bypass
@@ -18,3 +19,8 @@ According to [this](https://blogs.windows.com/windows-insider/2025/03/28/announc
 ## Command
 1. `start ms-cxh:localonly`
 2. `oobe.exe && shutdown -r -t 0`
+
+
+## Enable Windows
+Please refer to [thins](https://ivonblog.com/posts/microsoft-activation-scripts/) article to enable Windows.
+- PS: `irm https://get.activated.win | iex`

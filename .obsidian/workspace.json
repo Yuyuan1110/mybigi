@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/CommonUtils/Windows_OOBE_bypass.md",
+                "file": "Technical/LinuxUtils/qemu.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Windows_OOBE_bypass"
+              "title": "qemu"
             }
           }
         ],
@@ -197,11 +197,20 @@
   },
   "active": "8e2e9be41ff376a5",
   "lastOpenFiles": [
-    "Inventec/Chromebook/Disabled_File_system_Verification.md",
+    "Technical/LinuxUtils/tmux.md",
+    "Technical/LinuxUtils/tmux_advanced.md",
+    "Technical/CommonUtils/nmcli_pppoe.md",
     "Technical/CommonUtils/Windows_OOBE_bypass.md",
-    "Inventec/Chromebook/Factory_toolkit.md",
+    "Technical/CommonUtils/nmcli.md",
+    "Inventec/Chromebook/Keyboard_layout.md",
     "Inventec/Chromebook/Setup_GBB.md",
+    "Inventec/Chromebook/Generate_logs.md",
+    "Inventec/Chromebook/Factory_toolkit.md",
+    "Inventec/Chromebook/Disabled_File_system_Verification.md",
+    "Inventec/Chromebook/Various_version_info.md",
     "Inventec/Chromebook/powerwash.md",
+    "Inventec/Chromebook/Install_Steam.md",
+    "Inventec/Chromebook/Google progress.md",
     "Technical/LinuxUtils/kvm.md",
     "Technical/LinuxUtils/kvm_advanced.md",
     "Technical/LinuxUtils/cmake_advanced.md",
@@ -214,15 +223,6 @@
     "Technical/LinuxUtils/clang_advanced.md",
     "Technical/LinuxUtils/clang.md",
     "Technical/LinuxUtils/gcc_advanced.md",
-    "Technical/LinuxUtils/gcc.md",
-    "Technical/LinuxUtils/make_advanced.md",
-    "Technical/LinuxUtils/make.md",
-    "Technical/CommonUtils/git/Git_Commit_Message_convention.md",
-    "Technical/LinuxUtils/awk.md",
-    "Technical/LinuxUtils/tmux.md",
-    "Technical/LinuxUtils/tmux_advanced.md",
-    "Technical/CommonUtils/git/Modern_Git_Workflow.md",
-    "Technical/CommonUtils/neovim.md",
     "Untitled.base",
     "Inventec/Chromebook/Generate_logs.md~",
     "Pasted image 20250923164949.png",

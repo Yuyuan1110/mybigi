@@ -40,3 +40,4 @@ All `tmux` commands are preceded by a prefix key. The default prefix is **`Ctrl+
 - **`Ctrl+b` `"`**: Split the current pane horizontally.
 - **`Ctrl+b` `o`**: Cycle to the next pane.
 - **`Ctrl+b` `x`**: Close the current pane.
+- **`Ctrl+b` `$`**: Rename session, can also using `ctrl+b :rename-session -t old-name new-name`
