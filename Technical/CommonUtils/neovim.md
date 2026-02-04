@@ -21,4 +21,12 @@ source: neovim.io
 5. Setup terminal fonts.
 	- open `preference`, setup `Unname` or add profiles.
 	- checked  "Custom font" and select to which font install before.
-6. open nvim in terminal.
+6. Install essential tools
+	- rg: `sudo apt install ripgrep`
+	- fd: `sudo apt install fd`
+	- luarocks: `sudo apt install luarocks`
+	- rust:
+		- `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+		- `source "$HOME/.cargo/env"`
+	- tree-sitter-cli: `cargo install --locked tree-sitter-cli`
+7. open nvim in terminal.
