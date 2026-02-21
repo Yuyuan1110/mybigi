@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5d205a394a2a395d",
+        "id": "222276463ec6df1b",
         "type": "tabs",
         "children": [
           {
-            "id": "b843a4e366204749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inventec/Chromebook/Various_version_info.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Various_version_info"
-            }
-          },
-          {
-            "id": "8e2e9be41ff376a5",
+            "id": "68d35b04325368f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Technical/CommonUtils/Development_env.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Development_env"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,12 +180,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e2e9be41ff376a5",
+  "active": "68d35b04325368f2",
   "lastOpenFiles": [
-    "Technical/LinuxUtils/qemu.md",
-    "Technical/CommonUtils/Development_env.md",
-    "Inventec/Chromebook/ChromeOS_code_base.md",
+    "Templates/DailyNoteTemp.md",
+    "Templates/programmingLanguageFeatureTemplate.md",
+    "Templates/UtilsTemp.md",
     "Technical/CommonUtils/neovim.md",
+    "Kaladin_DesignConfigTable.md",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Technical/CommonUtils/Boshiamy install on ubuntu.md",
+    "Technical/CommonUtils/Development_env.md",
+    "neovim.io.md",
+    "Technical/LinuxUtils/qemu.md",
+    "Inventec/Chromebook/ChromeOS_code_base.md",
     "Technical/LinuxUtils/clang.md",
     "Technical/CommonUtils/nmcli_pppoe.md",
     "Technical/CommonUtils/nmcli.md",
@@ -217,16 +212,8 @@
     "Inventec/Chromebook/Install_Steam.md",
     "Inventec/Chromebook/Google progress.md",
     "Technical/LinuxUtils/kvm.md",
-    "Technical/LinuxUtils/kvm_advanced.md",
-    "Technical/LinuxUtils/cmake_advanced.md",
-    "Technical/LinuxUtils/qemu_advanced.md",
-    "Technical/LinuxUtils/cmake.md",
-    "Technical/CommonUtils/git/Git_log_classic_view_combine.md",
-    "Technical/LinuxUtils/gdb_advanced.md",
-    "Untitled.base",
     "Inventec/Chromebook/Generate_logs.md~",
     "Pasted image 20250923164949.png",
-    "Untitled 1.base",
     "Inventec/Aluminium",
     "Inventec/resources/ANSI_keyboard_layout.png",
     "Inventec/resources/UK_layout.png",
@@ -236,9 +223,7 @@
     "Inventec/resources/ISO_keyboard_layout.png",
     "Inventec/resources/FW_config_table.png",
     "Inventec/resources/JIS_keyboard_layout.png",
-    "Untitled 2.base",
     "Untitled 4.base",
-    "Untitled 3.base",
     "Inventec/Chromebook",
     "Inventec",
     "Untitled.canvas",

@@ -9,7 +9,7 @@ source:
 ---
 
 # `` Command Note
-Descript command
+Describe command
 
 ## Command Basic Usage
 Command format:
