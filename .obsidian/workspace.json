@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6eb75d552949ec30",
+        "id": "73339014ccc40daf",
         "type": "tabs",
         "children": [
           {
-            "id": "ec670bb3e1e23b52",
+            "id": "2e9da595782ff755",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README_Knowledge_System.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README_Knowledge_System"
             }
           }
         ]
@@ -179,23 +183,30 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "26e6d49902358e20",
+  "active": "2e9da595782ff755",
   "lastOpenFiles": [
+    "001_DailyNotes/2026/03/2026-03-30.md",
+    "001_DailyNotes/2025/12/2025-12-04.md",
+    "001_DailyNotes/2025/11/2025-11-05.md",
+    "001_DailyNotes/2025/10/2025-10-21.md",
+    "001_DailyNotes/2025/10/2025-10-03.md",
+    "001_DailyNotes/2025/09/2025-09-03.md",
+    "001_DailyNotes/2026/03/2026-03-20.md",
+    "001_DailyNotes/2025/12",
+    "001_DailyNotes/2025/11",
+    "001_DailyNotes/2025/10",
+    "001_DailyNotes/2025/09",
+    "001_DailyNotes/2025",
+    "001_DailyNotes/2026/03/2026-03-19.md",
+    "README_Knowledge_System.md",
+    "001_DailyNotes/2026/03",
+    "001_DailyNotes/2026",
+    "001_DailyNotes/2025-06-27.md",
+    "999_Resources/Books/CSAPP_2016.pdf",
     "200_Areas",
     "999_Resources/Images",
-    "999_Resources/Books",
-    "999_Resources/PDFs",
     "900_Archives/Technical/CommonUtils/Development_env.md",
-    "999_Resources",
-    "900_Archives",
-    "700_MOCs",
-    "Untitled.base",
-    "300_Zettelkasten",
-    "100_Projects",
-    "000_index",
     "900_Archives/Technical/CommonUtils/neovim.md",
-    "001_DailyNotes/2026-03-20.md",
-    "001_DailyNotes/2026-03-19.md",
     "Untitled.canvas",
     "900_Archives/Technical/CommonUtils/git/Git_log_classic_view_combine.md",
     "900_Archives/Technical/CommonUtils/git/Modern_Git_Workflow.md",
@@ -211,13 +222,6 @@
     "800_Templates/UtilsTemp.md",
     "Kaladin_DesignConfigTable.md",
     "neovim.io.md",
-    "900_Archives/Technical/LinuxUtils/qemu.md",
-    "Inventec/Chromebook/ChromeOS_code_base.md",
-    "900_Archives/Technical/LinuxUtils/clang.md",
-    "900_Archives/Technical/CommonUtils/nmcli_pppoe.md",
-    "900_Archives/Technical/CommonUtils/Windows_OOBE_bypass.md",
-    "Inventec/Chromebook/Keyboard_layout.md",
-    "Inventec/Chromebook/Setup_GBB.md",
     "Pasted image 20250923164949.png",
     "Inventec/resources/ANSI_keyboard_layout.png",
     "Inventec/resources/UK_layout.png",
